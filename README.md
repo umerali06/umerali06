@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
 <h3 align="center">A passionate Full Stack & MERN Stack developer from Pakistan</h3>
 
-<img align="right" width="400px" alt="coding" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1nvlOHE6zg_EfhChGjFbhu&ust=1722629756921000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCy54zO1IcDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" >
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerali06&label=Profile%20views&color=0e75b6&style=flat" alt="umerali06" /> </p>
 
