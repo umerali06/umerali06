@@ -1,3 +1,4 @@
+![logo](https://github.com/umerali06/umerali06/blob/main/GITHUB%20Banner.png)
 <h1 align="center">Hi 👋, I'm Umer Ali</h1>
 <h3 align="center">A passionate Full Stack & MERN Stack developer from Pakistan</h3>
 
