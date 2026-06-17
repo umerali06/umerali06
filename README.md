@@ -1,34 +1,172 @@
-![logo](https://github.com/umerali06/umerali06/blob/main/GITHUB%20Banner.png)
-<h1 align="center">Hi 👋, I'm Umer Ali</h1>
-<h3 align="center">A passionate Full Stack & MERN Stack developer from Pakistan</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+```
+██╗   ██╗███╗   ███╗███████╗██████╗      █████╗ ██╗     ██╗
+██║   ██║████╗ ████║██╔════╝██╔══██╗    ██╔══██╗██║     ██║
+██║   ██║██╔████╔██║█████╗  ██████╔╝    ███████║██║     ██║
+██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗    ██╔══██║██║     ██║
+╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║    ██║  ██║███████╗██║
+ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umerali06&label=Profile%20views&color=0e75b6&style=flat" alt="umerali06" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+%26+AI+Engineer+%F0%9F%87%B5%F0%9F%87%B0;MERN+%7C+Next.js+%7C+TypeScript+%7C+LLM+Integrations;30%2B+International+Clients+%7C+Fiverr+Level+2" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Cloud Generative AI**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/umerali06](https://linktr.ee/umerali06)
-
-- 💬 Ask me about **MERN STACK DEVELOPMENT**
-
-- 📫 How to reach me **umerali7454@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sMy6oCRotszHMGhQjuNnVzJsQehq5HSI/view](https://drive.google.com/file/d/1sMy6oCRotszHMGhQjuNnVzJsQehq5HSI/view)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umer-ali06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umer-ali06" height="30" width="40" /></a>
-<a href="https://fb.com/umerali0006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umerali0006" height="30" width="40" /></a>
-<a href="https://instagram.com/umer_ali_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umer_ali_06" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/umerali06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umerali06" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=umerali06&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff41?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CLIENTS-30%2B_International-00ff41?style=flat-square&labelColor=0d1117" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umerali06&show_icons=true&locale=en&layout=compact" alt="umerali06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umerali06&show_icons=true&locale=en" alt="umerali06" /></p>
+## `> whoami`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umerali06&" alt="umerali06" /></p>
+```bash
+$ cat profile.json
+{
+  "name":        "Umer Ali",
+  "role":        "Full Stack Developer & AI Engineer",
+  "location":    "Faisalabad, Pakistan 🇵🇰",
+  "brand":       "softwareautomated.org",
+  "education":   "BS Software Engineering @ UAF (2022–2026)",
+  "freelance":   ["Upwork", "Fiverr Level 2"],
+  "clients":     "30+ International",
+  "focus":       ["AI Integrations", "MERN Stack", "SaaS Products", "Chrome Extensions"],
+  "currently":   "Building Doksynt — EU Trust & Risk Score Extension",
+  "contact":     "umerali7454@gmail.com"
+}
+```
+
+---
+
+## `> ls ./projects --flagship`
+
+### 🧠 TeacherHub AI — *AI-Powered Teaching Platform*
+> Next.js 14 · TypeScript · PostgreSQL · GPT-4o · pgvector · BullMQ · Redis
+
+- RAG chatbot with **hybrid semantic search** (pgvector + keyword)
+- Custom in-house auth — bcrypt, JWT, Google OAuth, OTP 2FA
+- Background job processing with BullMQ + Redis queues
+- Built for real university deployment, not just a demo
+
+---
+
+### 🛡️ Doksynt — *Website Trust & Risk Scoring Extension*
+> TypeScript · React · Manifest V3 · Node.js · Express · PostgreSQL
+
+- Chrome extension analyzing websites for trust/risk in real-time
+- Rule-based scoring engine targeting the **German / EU market**
+- Full backend API with structured domain intelligence pipeline
+
+---
+
+### 🎬 Razup.ai — *AI Video Generation Platform*
+> Laravel · PHP · PiAPI · fal.ai · Kling / Sora / Veo APIs
+
+- Multi-provider AI video generation (Kling, Sora, Veo)
+- cURL + streaming pipeline with CDN upload handling
+- Custom retry logic for HTTP/2 edge cases
+
+---
+
+### 🏈 StreamSoka — *Football Streaming Android App*
+> Kotlin · Jetpack Compose · $200 Budget · Delivered
+
+---
+
+## `> cat skills.sh`
+
+```
+╔══════════════════════════════════════════════════════╗
+║               STACK OVERVIEW v2026                   ║
+╠══════════════════════════════════════════════════════╣
+║  FRONTEND   │ React · Next.js 14 · TypeScript        ║
+║             │ Tailwind · Framer Motion · Redux        ║
+╠══════════════════════════════════════════════════════╣
+║  BACKEND    │ Node.js · Express · NestJS · Laravel    ║
+║             │ Fastify · REST · GraphQL                ║
+╠══════════════════════════════════════════════════════╣
+║  AI / LLM   │ OpenAI GPT-4o · RAG Pipelines          ║
+║             │ pgvector · LangChain · fal.ai · PiAPI  ║
+╠══════════════════════════════════════════════════════╣
+║  DATABASE   │ PostgreSQL · MongoDB · MySQL · Redis    ║
+╠══════════════════════════════════════════════════════╣
+║  MOBILE     │ Kotlin · Jetpack Compose                ║
+╠══════════════════════════════════════════════════════╣
+║  CLOUD/OPS  │ AWS · Docker · Vercel · BullMQ          ║
+╠══════════════════════════════════════════════════════╣
+║  TOOLS      │ Git · Postman · Figma · Linux · Bash   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> cat tech-badges.md`
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=umerali06&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerali06&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=umerali06&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41"/>
+
+</div>
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-PROTOCOL://UMER-00ff41?style=for-the-badge&labelColor=0d1117)](https://umer-ali-portfolio.vercel.app)
+[![Upwork](https://img.shields.io/badge/Upwork-Available_for_Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~umerali06)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Level_2_Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/umerali06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umer-ali06)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerali7454@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/umerali06)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> system.status ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  [■■■■■■■■■■] AVAILABLE FOR FREELANCE PROJECTS
+  [■■■■■■■■■■] OPEN TO FULL-TIME REMOTE ROLES
+  [■■■■■■■■■■] BUILDING IN PUBLIC @ softwareautomated.org
+> _
+```
+
+</div>
